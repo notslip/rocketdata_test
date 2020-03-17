@@ -1,1 +1,4 @@
-# rockrtdata_test
+# rocketdata_test
+
+первый скрипт сделан с помощью BeautifulSoup4 и lxml, их надо будет, если надо, доустановить из requirements.txt
+второй скрипт обращается к api сайта и парсит json файлы которые идут к фронту
